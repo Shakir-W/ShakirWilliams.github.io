@@ -5,7 +5,7 @@ layout: default
 # Shakir Williams
 ### Cloud Security | Programmer
 
-Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn](www.linkedin.com/in/shakir-w-288a89372) &nbsp;|&nbsp; [GitHub](https://github.com/[Your-GitHub])
+Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn]([www.linkedin.com/in/shakir-w-288a89372](https://www.linkedin.com/in/shakir-w-288a89372/)) &nbsp;|&nbsp; [GitHub](https://github.com/[Your-GitHub])
 
 > CompTIA Security+ Certified &nbsp;|&nbsp; BSc Computer Science & Electronic Engineering – University of the West Indies &nbsp;|&nbsp; Cybersecurity Bootcamp Graduate
 
@@ -15,7 +15,7 @@ Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn](www.l
 
 Hi, I’m Shakir—welcome to my little corner of the internet where I pretend to have everything together (and sometimes actually do).
 
-I’m passionate about cloud security and backend programming, which basically means I enjoy working behind the scenes—where all the important (and less visible) magic happens. I like designing systems that not only work, but are also secure, reliable, and don’t fall apart the moment something unexpected happens (because let’s be honest… something always does).evelopment lifecycle.
+I’m passionate about cloud security and backend programming, which basically means I enjoy working behind the scenes—where all the important (and less visible) magic happens. I like designing systems that not only work, but are also secure, reliable, and don’t fall apart the moment something unexpected happens (because let’s be honest… something always does).
 
 This ePortfolio is a reflection of my journey so far—not perfection, but progress. Every project here represents something I’ve learned, struggled with, or improved on.
 
