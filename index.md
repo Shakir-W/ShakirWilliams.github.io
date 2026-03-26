@@ -90,15 +90,15 @@ Configured and maintained network systems supporting daily operations across the
 |:---|:---|:---|
 | BSc Computer Science & Electronic Engineering | University of the West Indies | 2025 – Present |
 | Associate Degree in Applied Science – Computer Studies (GPA: 3.34) | Barbados Community College | 2023 – 2025 |
-| Caribbean Examinations Council (CSEC) – General | The St. Michael Secondary School | 2018 – 2022 |
+
 
 * * *
 
 ## Contact
 
 - Email: [shakirwilliams07@gmail.com](mailto:shakirwilliams07@gmail.com)
-- LinkedIn: [linkedin.com/in/[Your-LinkedIn]](https://linkedin.com/in/[Your-LinkedIn])
-- GitHub: [github.com/[Your-GitHub]](https://github.com/[Your-GitHub])
+- LinkedIn: [linkedin.com/in/[Shakir-Williams]](www.linkedin.com/in/shakir-w-288a89372])
+- GitHub: [github.com/[Shakir Williams]](https://github.com/[https://shakir-w.github.io/ShakirWilliams.github.io/])
 
 * * *
 
