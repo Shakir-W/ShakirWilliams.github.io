@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Shakir Williams
-### Cloud Security | DevSecOps | Network Administration
+### Cloud Security | Programmer
 
 Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn](www.linkedin.com/in/shakir-w-288a89372) &nbsp;|&nbsp; [GitHub](https://github.com/[Your-GitHub])
 
