@@ -5,7 +5,7 @@ layout: default
 # Shakir Williams
 ### Cloud Security | DevSecOps | Network Administration
 
-Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/[Your-LinkedIn]) &nbsp;|&nbsp; [GitHub](https://github.com/[Your-GitHub])
+Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn](www.linkedin.com/in/shakir-w-288a89372) &nbsp;|&nbsp; [GitHub](https://github.com/[Your-GitHub])
 
 > CompTIA Security+ Certified &nbsp;|&nbsp; BSc Computer Science & Electronic Engineering – University of the West Indies &nbsp;|&nbsp; Cybersecurity Bootcamp Graduate
 
@@ -13,10 +13,13 @@ Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn](https
 
 ## About Me
 
-I am an emerging Cloud Security and DevSecOps professional based in Barbados with hands-on experience in network administration, cybersecurity risk assessment, vulnerability analysis, and incident response planning. I completed a Cybersecurity Bootcamp producing four professional-grade capstone projects applied to real Caribbean financial institutions. I am currently pursuing a Bachelor's Degree in Computer Science and Electronic Engineering at the University of the West Indies.
+Hi, I’m Shakir—welcome to my little corner of the internet where I pretend to have everything together (and sometimes actually do).
 
-My focus is on securing cloud environments, automating security remediation, and integrating security into every stage of the development lifecycle.
+I’m passionate about cloud security and backend programming, which basically means I enjoy working behind the scenes—where all the important (and less visible) magic happens. I like designing systems that not only work, but are also secure, reliable, and don’t fall apart the moment something unexpected happens (because let’s be honest… something always does).evelopment lifecycle.
 
+This ePortfolio is a reflection of my journey so far—not perfection, but progress. Every project here represents something I’ve learned, struggled with, or improved on.
+
+If you’re looking for someone who’s curious, motivated, and serious about growing in cloud security and backend development, you’re in the right place.
 * * *
 
 ## Certifications
