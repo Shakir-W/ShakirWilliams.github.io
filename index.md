@@ -5,7 +5,7 @@ layout: default
 # Shakir Williams
 ### Cloud Security | Programmer
 
-Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn]([www.linkedin.com/in/shakir-w-288a89372](https://www.linkedin.com/in/shakir-w-288a89372/)) &nbsp;|&nbsp; [GitHub](https://github.com/[Your-GitHub])
+Barbados &nbsp;|&nbsp; shakirwilliams07@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/shakir-w-288a89372/) &nbsp;|&nbsp; [GitHub](https://github.com/[Your-GitHub])
 
 > CompTIA Security+ Certified &nbsp;|&nbsp; BSc Computer Science & Electronic Engineering – University of the West Indies &nbsp;|&nbsp; Cybersecurity Bootcamp Graduate
 
